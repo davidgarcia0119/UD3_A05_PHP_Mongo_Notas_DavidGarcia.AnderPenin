@@ -1,0 +1,79 @@
+[
+	{
+		"codigoAsignatura": "A01",
+		"nombreAsignatura": "Programacion",
+		"Alumnos":[
+			{
+				"nMatricula": "UT001",
+				"nombre":"Paco",
+				"apellido":"Gonzalez",
+				"mail": "pakazogon@gmail.com",
+
+				"notasAsignatura": [
+					{
+						"numTarea":1,
+						"notaTarea": 7
+					},
+					{
+						"numTarea":2,
+						"notaTarea": 6
+					}
+				]
+			},
+			{
+				"nMatricula": "UT002",
+				"nombre":"María",
+				"apellido":"Ramos",
+				"mail": "Ramos.maria@gmail.com",
+				"notasAsignatura": [
+					{
+						"numTarea":1,
+						"notaTarea": 5
+					},
+					{
+						"numTarea":2,
+						"notaTarea": 4
+					}
+				]
+			}
+		]
+	},
+	{
+		"codigoAsignatura": "A02",
+		"nombreAsignatura": "Entornos de Desarrollo",
+		"Alumnos":[
+			{
+				"nMatricula": "UT002",
+				"nombre":"María",
+				"apellido":"Ramos",
+				"mail": "Ramos.maria@gmail.com",
+				"notasAsignatura": [
+					{
+						"numTarea":1,
+						"notaTarea": 10
+					},
+					{
+						"numTarea":2,
+						"notaTarea": 10
+					}
+				]
+			},
+			{
+				"nMatricula": "UT001",
+				"nombre":"Paco",
+				"apellido":"Gonzalez",
+				"mail": "pakazogon@gmail.com",
+				"notasAsignatura": [
+					{
+						"numTarea":1,
+						"notaTarea": 9
+					},
+					{
+						"numTarea":2,
+						"notaTarea": 7
+					}
+				]
+			}
+		]
+	}
+]
